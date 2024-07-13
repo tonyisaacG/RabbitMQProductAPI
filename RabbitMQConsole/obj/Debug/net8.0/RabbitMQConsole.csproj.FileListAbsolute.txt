@@ -1,0 +1,17 @@
+D:\ME\SideProjects\RabbitMQ\RabbitMQProductAPI\RabbitMQConsole\bin\Debug\net8.0\RabbitMQConsole.exe
+D:\ME\SideProjects\RabbitMQ\RabbitMQProductAPI\RabbitMQConsole\bin\Debug\net8.0\RabbitMQConsole.deps.json
+D:\ME\SideProjects\RabbitMQ\RabbitMQProductAPI\RabbitMQConsole\bin\Debug\net8.0\RabbitMQConsole.runtimeconfig.json
+D:\ME\SideProjects\RabbitMQ\RabbitMQProductAPI\RabbitMQConsole\bin\Debug\net8.0\RabbitMQConsole.dll
+D:\ME\SideProjects\RabbitMQ\RabbitMQProductAPI\RabbitMQConsole\bin\Debug\net8.0\RabbitMQConsole.pdb
+D:\ME\SideProjects\RabbitMQ\RabbitMQProductAPI\RabbitMQConsole\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\ME\SideProjects\RabbitMQ\RabbitMQProductAPI\RabbitMQConsole\obj\Debug\net8.0\RabbitMQConsole.csproj.AssemblyReference.cache
+D:\ME\SideProjects\RabbitMQ\RabbitMQProductAPI\RabbitMQConsole\obj\Debug\net8.0\RabbitMQConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\ME\SideProjects\RabbitMQ\RabbitMQProductAPI\RabbitMQConsole\obj\Debug\net8.0\RabbitMQConsole.AssemblyInfoInputs.cache
+D:\ME\SideProjects\RabbitMQ\RabbitMQProductAPI\RabbitMQConsole\obj\Debug\net8.0\RabbitMQConsole.AssemblyInfo.cs
+D:\ME\SideProjects\RabbitMQ\RabbitMQProductAPI\RabbitMQConsole\obj\Debug\net8.0\RabbitMQConsole.csproj.CoreCompileInputs.cache
+D:\ME\SideProjects\RabbitMQ\RabbitMQProductAPI\RabbitMQConsole\obj\Debug\net8.0\RabbitMQ.CE0DE298.Up2Date
+D:\ME\SideProjects\RabbitMQ\RabbitMQProductAPI\RabbitMQConsole\obj\Debug\net8.0\RabbitMQConsole.dll
+D:\ME\SideProjects\RabbitMQ\RabbitMQProductAPI\RabbitMQConsole\obj\Debug\net8.0\refint\RabbitMQConsole.dll
+D:\ME\SideProjects\RabbitMQ\RabbitMQProductAPI\RabbitMQConsole\obj\Debug\net8.0\RabbitMQConsole.pdb
+D:\ME\SideProjects\RabbitMQ\RabbitMQProductAPI\RabbitMQConsole\obj\Debug\net8.0\RabbitMQConsole.genruntimeconfig.cache
+D:\ME\SideProjects\RabbitMQ\RabbitMQProductAPI\RabbitMQConsole\obj\Debug\net8.0\ref\RabbitMQConsole.dll
